@@ -1,0 +1,27 @@
+
+# Category Theory
+
+Definitions:
+
+  * https://en.wikipedia.org/wiki/Category_theory
+
+Videos:
+
+  * https://www.youtube.com/watch?v=ba_hon70qbg
+
+
+## Zero System Perspecive
+
+Zero System is an implementation of a software system that allows for manifestation of systems from declarations.
+
+Declarations organize cores and implementation adapters to compose the system by declaring standards-based relationships between entities represending different arbitrary parts of the system.
+
+Declarations are standards-based and these API contracts are isomorphic as long as they follow Category Theory Principles.
+
+
+## Moment of Awareness: Sep 2015
+
+I became aware of *Category Theory* on Sep 2, 2015. It explains many transformation principles I have been thinking about for a long time without having the words to explain them. My understanding of Category Theory is limited to intuition and it seems to be highly synergistic with my work.
+
+A library that comes to mind that I found a couple of months ago that captures the ideas of Category Theory but did not mention Category Theory in a way that it registered with me [RxJS](https://github.com/Reactive-Extensions/RxJS).
+
