@@ -1,0 +1,22 @@
+
+# Category Unikernel
+
+Definitions:
+
+  * https://en.wikipedia.org/wiki/Unikernel
+
+Resources:
+
+  * http://thenewstack.io/the-comparison-and-context-of-unikernels-and-containers/
+
+
+## Zero System Perspecive
+
+Zero System is an ideal approach to drive construction and deployment to Unikernels as all dependencies can be clearly defined and reduced.
+
+The key lies in developing domain models that transcend unikernel and container architectures. This transcendence is the focus of [PINF.Genesis](http://genesis.pinf.org).
+
+
+## Moment of Re-Awareness: Sep 2015
+
+I am sure I must have heard about *Unikernels* before but they have not been on my mind for many years nor did I remember what they were. My understanding of Unikernels is limited to intuition and they seem to be highly synergistic with my work.

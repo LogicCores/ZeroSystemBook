@@ -1,0 +1,17 @@
+
+# Open Standards
+
+
+
+
+# Analogy: Marriage
+
+Just like in [Marriage](https://medium.com/the-limitless-mind/the-10-secrets-of-marriage-no-one-ever-wants-to-admit-to-d0df98f6ecd1), in Software we need to build a relationship between components to achieve something of value. We can build relationships instantly by following open standards.
+
+The more standards an interface between two components follows the wider is its potential of adoption as a core building block of primitive logic. This is because the component may be embedded in many systems as it will be instantly compatible and interface with other components frequently in use.
+
+Zero System internalizes and concentrates many hundreds of standards into **one JSON declared interface PER node** where multiple nodes form systems which are themselves nodes that may be embedded as a single node within other systems.
+
+Standards elevate coupling to a higher dimension, one which we can manipulate declaratively at built and runtime. This late binding is a key to dynamic distributed systems where pre-made contracts are animated by loading components and executing them just-in-time to fulfill a local in-context need before disbanding the *manifested relationship*.
+
+Following this thinking you can see very quickly how building systems comes down to how we model data and that the relationships and tendencies we decide to embed knowingly or unknowingly in our systems is of paramount significance in unlocking possibilities and directing future action.

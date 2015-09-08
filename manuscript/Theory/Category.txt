@@ -24,4 +24,4 @@ Declarations are standards-based and these API contracts are isomorphic as long 
 I became aware of *Category Theory* on Sep 2, 2015. It explains many transformation principles I have been thinking about for a long time without having the words to explain them. My understanding of Category Theory is limited to intuition and it seems to be highly synergistic with my work.
 
 A library that comes to mind that I found a couple of months ago that captures the ideas of Category Theory but did not mention Category Theory in a way that it registered with me [RxJS](https://github.com/Reactive-Extensions/RxJS).
-
+  * Video: https://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Keynote-Duality
