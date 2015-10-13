@@ -1,0 +1,26 @@
+Database
+========
+
+Technology:
+
+  * [GunDB](http://gundb.io)
+
+
+## Zero System
+
+Zero System is ideally suited to model and drive schema-based distributed data architectures as it can compile source logic to any format required.
+
+Because Zero System source logic is organized according to axioms that are present in all layers of logic and application we can guarantee to a large extent to be able to support any yet to be invented system.
+
+This makes Zero System a perfect plact to keep data modeling source logic as it will be future-proof and finally allow data scientists to focus their attention on other topics.
+
+
+
+## Moment of Awareness: Oct 2015
+
+I was watching [this video](https://youtu.be/nG3yz1FsAxc) about [GunDB](http://gundb.io) and it finally confirmed to me that I am not missing anything in my approach to data modeling and persistence.
+
+Of course I have been working with data and databases for a long time but I had never looked at all the concepts involved from a higher vantage point as I have been too focused on the development and runtime architecture of systems.
+
+From my experience with system structures, GunDB is right on track with its philosophy and approach as it can be reduced to one [axiom](https://github.com/amark/gun/wiki/How-to-Create-GUN).
+
